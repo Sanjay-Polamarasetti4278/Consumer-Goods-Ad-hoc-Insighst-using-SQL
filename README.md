@@ -1,0 +1,1 @@
+# Consumer-Goods-Ad-hoc-Insighst-using-SQL
